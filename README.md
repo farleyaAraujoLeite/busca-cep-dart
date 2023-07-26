@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+#Aplicação feita para fazer requisição http via api.
+  - Em poucas linhas de código é possivel buscar endereços apenas fazendo requizições de API.
